@@ -12,13 +12,14 @@ The purpose of this project is to develop an **Environmental Quality Index (EQI)
 
 ## 2. Data Sources
 
-The following datasets will be used to construct the index. 
+The following datasets were downloaded on **October 3, 2025**.
 
-* **Health Outcomes:** CDC PLACES - County-level data.
-* **Air Quality:** EPA AirData - Annual summary data for PM2.5.
-* **Pollution Sites:** EPA Superfund Enterprise Management System (SEMS) - Location data for hazardous waste sites.
-* **Green Space:** Satellite-derived Normalized Difference Vegetation Index (NDVI) from Google Earth Engine (using Landsat 8/Sentinel-2 imagery).
-* **Demographics:** U.S. Census Bureau - Data on median income and population density.
+* **Health Outcomes:** [CDC PLACES - County-level Data, 2024 Release](https://data.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb/about_data)
+    * *File:* `cdc_places_county_california_2024.csv`
+* **Air Quality:** [EPA Annual AQI by County, 2024](https://aqs.epa.gov/aqsweb/airdata/download_files.html)
+    * *File:* `epa_aqi_county_usa_2024.csv`
+* **Demographics:** [U.S. Census Bureau - ACS 1-Year Estimates, Table DP03, 2024](https://data.census.gov/table?q=DP03)
+    * *Files:* `census_economic_county_california_2024.csv` and `census_economic_county_california_2024_column_metadata.csv`
 
 ---
 
