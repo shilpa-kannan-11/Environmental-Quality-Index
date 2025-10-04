@@ -1,4 +1,4 @@
-# Environmental Quality Index (EQI) for U.S. Counties
+# Environmental Quality Index (EQI) for California Counties
 
 **Last Updated: October 2025**
 
@@ -6,7 +6,7 @@
 
 ## 1. Project Objective
 
-The purpose of this project is to develop an **Environmental Quality Index (EQI)** that quantifies the environmental vulnerability of communities within the U.S. through comparing trends between datasets on pollution and green spaces against demographic and public health data from the CDC. 
+The purpose of this project is to develop an **Environmental Quality Index (EQI)** that quantifies the environmental vulnerability of communities within California through comparing trends between datasets on pollution and green spaces against demographic and public health data from the CDC. 
 
 ---
 
