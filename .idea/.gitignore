@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# PyCharm specific
+.idea/
+
+# Python specific
+__pycache__/
+*.pyc
+
+# Environment folders (if applicable, Conda envs usually live outside project)
+venv/
+env/
